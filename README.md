@@ -20,7 +20,7 @@
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,mongodb,js,ts,html,css,tailwind,bootstrap,symfony,php,mysql,py,django,git,github,gitlab,stackoverflow,linux)
+![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,mongodb,js,ts,html,css,tailwind,bootstrap,symfony,php,mysql,py,django,git,github,gitlab,stackoverflow,linux,vscode)
 ## ⭐ **Top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasgacha&theme=radical&layout=compact&hide=css)
