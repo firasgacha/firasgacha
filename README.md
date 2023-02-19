@@ -6,8 +6,8 @@
 - 👨🏻‍💻 I'm currently in an internship with ***Baback*** based in ***Strasbourg***
 - 🔭 I’m currently working on **Personal Projects**
 - 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **anything**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Anything**
 - 📫 How to reach me: **firasgacha.inbox@gmail.com** or **firasgacha8@gmail.com**
 
 
