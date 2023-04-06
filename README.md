@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/firasgacha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-             badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/firas_gacha/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?     &style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 
@@ -24,12 +23,8 @@
 ![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,expressjs,html,css,tailwind,bootstrap,symfony,php,mysql,py,django,git,github,gitlab,stackoverflow,linux,vscode)
 ## ⭐ **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasgacha&theme=radical&layout=compact&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasgacha&theme=swift&layout=compact&hide=css)
 
 ## 📊 **GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firasgacha&show_icons=true&theme=radical)
-
-## 🏆 **Github Profile Trophy**
-
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=firasgacha&theme=radical&row=1&column=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firasgacha&show_icons=true&theme=swift)
