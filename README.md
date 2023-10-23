@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full  Stack Developer</h3>
 <br></br>
 
-- 👨🏻‍💻 I'm currently in an internship with ***Baback*** based in ***Strasbourg***
+- 👨🏻‍💻 I'm currently a web developer engineer with ***Happiso*** based in ***Metz***
 - 🔭 I’m currently working on **Personal Projects**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
