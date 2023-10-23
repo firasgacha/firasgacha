@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Anything**
-- 📫 How to reach me: **firasgacha.inbox@gmail.com** or **firasgacha8@gmail.com**
+- 📫 How to reach me: **firasgacha.inbox@gmail.com** or **firasgacha.happiso@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
