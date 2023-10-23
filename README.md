@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/firasgacha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 <p>
-  <a href="https://linktr.ee/firasgacha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linktree&logoColor=white" height=25></a> 
+  <a href="https://linktr.ee/firasgacha"><img src="https://img.shields.io/badge/linktree-%254f1a.svg?&style=for-the-badge&logo=linktree&logoColor=white" height=25></a> 
 </p>
 
 
