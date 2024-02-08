@@ -21,7 +21,7 @@
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,expressjs,html,css,tailwind,bootstrap,symfony,php,mysql,py,django,git,github,gitlab,stackoverflow,linux,vscode)
+![My Skills](https://skillicons.dev/icons?i=react,ts,laravel,php,css,tailwind,mysql,postgres,nodejs,mongodb,expressjs,git,github,gitlab,stackoverflow,linux,vscode)
 ## ⭐ **Top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasgacha&theme=swift&layout=compact&hide=css)
