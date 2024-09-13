@@ -6,8 +6,14 @@
 <br/>
 
 ## 🚀 Summary
+<p>I am a talented developer with a strong passion for JavaScript frameworks. 
+  
+  I am always eager to learn, continually seeking opportunities for improvement, and ready to embrace new challenges.
+  
+  I am ready to collaborate, innovate, and contribute to a team that values creativity and technical excellence.
+</p>
 
-- 👨🏻‍💻 I'm currently a **Software Engineer** with **Happiso** based in **Metz**
+- 👨🏻‍💻 I'm currently a **Software Engineer** with **Happiso** based in **Metz, France**
 - 🔭 I’m currently working on **Personal Projects**
 
 <br/>
