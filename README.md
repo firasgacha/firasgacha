@@ -13,7 +13,7 @@
   I am ready to collaborate, innovate, and contribute to a team that values creativity and technical excellence.
 </p>
 
-- 👨🏻‍💻 I'm currently a **Software Engineer** with **Happiso** based in **Metz, France**
+- 👨🏻‍💻 I'm currently a **Software Engineer** based in **France**
 - 🔭 I’m currently working on **Personal Projects**
 
 <br/>
