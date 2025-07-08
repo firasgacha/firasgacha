@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firas Gacha</h1>
+<h1 align="center">Hi 👋, I'm Firas</h1>
 
 <image src="https://camo.githubusercontent.com/07b047331ba9023ea7234e374f2bf9fcc2fc8c4a9117772f7584c877690743c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" />
 
@@ -13,7 +13,7 @@
   I am ready to collaborate, innovate, and contribute to a team that values creativity and technical excellence.
 </p>
 
-- 👨🏻‍💻 I'm currently a **Software Engineer** based in **France**
+- 👨🏻‍💻 I'm currently a **Software Engineer** at **Blocksi** based in **France**
 - 🔭 I’m currently working on **Personal Projects**
 
 <br/>
@@ -24,8 +24,6 @@
   <a href="https://www.linkedin.com/in/firasgacha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://linktr.ee/firasgacha"><img src="https://img.shields.io/badge/linktree-%254f1a.svg?&style=for-the-badge&logo=linktree&logoColor=white" height=25></a> 
 </p>
-
-- 📫 How to reach me **firasgacha.inbox@gmail.com**
 
 <br/>
 
