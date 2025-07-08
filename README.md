@@ -29,7 +29,7 @@
 
 ## 🛠 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=react,ts,vue,docker,nginx,css,tailwind,postgres,nodejs,mongodb,expressjs,git,github,gitlab,jenkins,lens,jira,bitbucket,linux,vscode)
+![My Skills](https://skillicons.dev/icons?i=react,ts,vue,docker,nginx,css,tailwind,postgres,nodejs,mongodb,expressjs,git,github,gitlab,jenkins,postman,bitbucket,linux,vscode)
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=firasgacha&show_icons=true&theme=swift" height="180"/></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasgacha&theme=swift&layout=compact&hide=css" height="180"/></a>
