@@ -13,7 +13,7 @@
   I am ready to collaborate, innovate, and contribute to a team that values creativity and technical excellence.
 </p>
 
-- 👨🏻‍💻 I'm currently a **Software Engineer** at **Blocksi** based in **France**
+- 👨🏻‍💻 I'm currently a **Software Engineer** at **Blocksi** based in **Valbonne, France**
 - 🔭 I’m currently working on **Personal Projects**
 
 <br/>
